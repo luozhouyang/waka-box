@@ -1,3 +1,10 @@
+# waka-box
+
+![Update gist with WakaTime stats](https://github.com/luozhouyang/waka-box/workflows/Update%20gist%20with%20WakaTime%20stats/badge.svg)
+
+
+Example:
+
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/4658208/60469862-2e40bf00-9c2c-11e9-87f7-afe164648de4.png">
   <h3 align="center">waka-box</h3>
@@ -7,6 +14,8 @@
 ---
 
 > 📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
+
+
 
 ## Setup
 
